@@ -1,0 +1,14 @@
+C:/Users/User/OpenGL_Start/build/CMakeFiles/OpenGL_Start.dir
+C:/Users/User/OpenGL_Start/build/CMakeFiles/INSTALL.dir
+C:/Users/User/OpenGL_Start/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/OpenGL_Start/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/User/OpenGL_Start/build/external/CMakeFiles/INSTALL.dir
+C:/Users/User/OpenGL_Start/build/external/glfw/CMakeFiles/uninstall.dir
+C:/Users/User/OpenGL_Start/build/external/glfw/CMakeFiles/INSTALL.dir
+C:/Users/User/OpenGL_Start/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/OpenGL_Start/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/User/OpenGL_Start/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/User/OpenGL_Start/build/external/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/User/OpenGL_Start/build/external/glfw/docs/CMakeFiles/INSTALL.dir
+C:/Users/User/OpenGL_Start/build/external/glad/CMakeFiles/glad.dir
+C:/Users/User/OpenGL_Start/build/external/glad/CMakeFiles/INSTALL.dir
