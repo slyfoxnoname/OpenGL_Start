@@ -1,23 +1,32 @@
-# 🎮 OpenGL_Start
+# OpenGL Start Project 🚀
 
-Мій перший проект на **C++** з використанням **OpenGL**. Цей репозиторій створений для вивчення основ комп'ютерної графіки, шейдерів та математики 3D-простору.
+A lightweight C++ boilerplate for starting OpenGL development. This project handles window creation, input management, and basic rendering using modern OpenGL standards.
 
----
+## 🛠 Tech Stack
+* **Language:** C++17
+* **Graphics API:** OpenGL 3.3+ (Core Profile)
+* **Windowing/OS:** GLFW 3.3
+* **Extension Loader:** GLAD
+* **Mathematics:** GLM (OpenGL Mathematics)
+* **Build System:** CMake
 
-## 🛠 Технології та бібліотеки
-Проект використовує сучасний стек для розробки графічних додатків:
-* **C++17** — основна мова програмування.
-* **CMake** — система автоматизації збірки.
-* **GLFW** — створення вікон та обробка вводу (клавіатура/миша).
-* **GLAD** — завантажувач функцій OpenGL (Core Profile).
-* **GLM** — математична бібліотека для графіки (матриці, вектори).
+## 📦 Features
+- [x] Automated dependency management via CMake.
+- [x] Pre-configured **GLAD** and **GLFW**.
+- [x] Clean project structure (src, include, external).
+- [x] Basic shader loading and triangle/rectangle rendering.
 
----
+## 🚀 Getting Started
 
-## 📁 Структура проекту
-```text
-OpenGL_Start/
-├── external/        # Зовнішні бібліотеки (GLFW, GLAD, GLM)
-├── src/             # Вихідний код (.cpp, .h)
-├── CMakeLists.txt   # Конфігурація збірки
-└── README.md        # Цей файл
+### Prerequisites
+Ensure you have the following installed:
+* **CMake** (3.10 or higher)
+* **C++ Compiler** (MSVC for Windows, GCC/Clang for Linux)
+* **Git**
+
+### Installation & Build
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/slyfoxnoname/OpenGL_Start.git](https://github.com/slyfoxnoname/OpenGL_Start.git)
+   cd OpenGL_Start
